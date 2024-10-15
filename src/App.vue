@@ -101,20 +101,20 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "gilg",
-          "alias": "Shayan Arsenal",
+          "callsign": "Asylum",
+          "alias": "Weiss Alison",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "Horus",
+          "frame": "Balor",
           "mech": "snek"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Merlin",
+          "alias": "Merho-tepre Sunoaten",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "frame": "Chomolungma",
+          "mech": "Apprentice"
         },
         {
           "callsign": "Starboard",
