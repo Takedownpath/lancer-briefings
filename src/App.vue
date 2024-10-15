@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Search and Rescue",
           "status": "start"
         },
       ],
@@ -139,8 +139,8 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Union First",
-        "headerSubtitle": "Rafvas Company",
+        "headerTitle": "Union",
+        "headerSubtitle": "First Rafvas Company",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
