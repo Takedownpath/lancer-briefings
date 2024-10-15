@@ -134,7 +134,7 @@ export default {
         }
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": " Rafvas 38-J",
         "year": "5014u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
