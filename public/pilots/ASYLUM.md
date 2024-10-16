@@ -1,7 +1,11 @@
 Age - 27 (subj) 57 (real)
+
 Eyes - Blue
+
 Hair - Blonde
+
 Height - 5' 7"
+
 Weight - {DATA MISSING}
 
 INFORMATION PERTAINING TO SUBJECT
