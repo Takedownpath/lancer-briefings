@@ -1,4 +1,4 @@
-- *Transcript Provided By Cedric Calhoun, 5016* -
+-*Transcript Provided By Cedric Calhoun, 5016*-
 
 Report under courtesy of Cedric IV Calhoun of The Calhoun Family, of Ras Shamra, Members of the High Stewardship, Servitors of the Director-General, and Councilors in The Purview. 
 
@@ -16,7 +16,7 @@ Veteran.
 
 *INFORMATION AUTHORIZED BY THE CALHOUN ADMINISTRATION, UNDER AUTHORITY BY HIS MOST HONORABLE MAJESTY, JOHN CREIGHTON-CRUZ HARRISON III, SON OF THE SECOND, AND HERALD OF HUMANITY, TO THE TEMPERATE THRONE, ON THE YEAR 416.*
 
-- *End of Transcript* -
+-*End of Transcript*-
 
 BIO - BISMARCK
 
