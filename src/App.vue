@@ -140,7 +140,7 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "ALBATROSS-UNION",
-        "headerSubtitle": "DEPARTMENT OF JUSTICE AND HUMAN RIGHTS COMBINED TASK FORCE",
+        "headerSubtitle": "DOJ/HR CTF",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
