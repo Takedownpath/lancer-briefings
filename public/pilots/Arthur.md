@@ -1,10 +1,8 @@
-LAST NAME/FIRST NAME/MIDDLE NAME
+LAST NAME/FIRST NAME/MIDDLE NAME                                     DATE OF BIRTH
 
-John Doe
 
-DATE OF BIRTH
+John Doe                                                             4980
 
-4980
 
 STATION
 
