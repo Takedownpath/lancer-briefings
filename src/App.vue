@@ -138,7 +138,7 @@ export default {
         "year": "5016u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "ring": "Carpathian-Line",
         "headerTitle": "ALBATROSS-UNION",
         "headerSubtitle": "DOJ/HR CTF",
         "subheaderTitle": "Crisis Response",
