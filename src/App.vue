@@ -137,7 +137,7 @@ export default {
         "planet": " Rafvas 38-J",
         "year": "5016u",
         "system": "Kaiserwald-42",
-        "gate": "Atlas-Quanokrim",
+        "gate": "Carpathian-Mayden Burg",
         "ring": "Carpathian-Line",
         "headerTitle": "ALBATROSS-UNION",
         "headerSubtitle": "DOJ/HR CTF",
