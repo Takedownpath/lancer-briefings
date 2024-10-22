@@ -136,7 +136,7 @@ export default {
       "header": {
         "planet": " Rafvas 38-J",
         "year": "5016u",
-        "system": "Ardennes-3",
+        "system": "Kaiserwald-42",
         "gate": "Atlas-Quanokrim",
         "ring": "Carpathian-Line",
         "headerTitle": "ALBATROSS-UNION",
