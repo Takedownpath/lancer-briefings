@@ -1,8 +1,15 @@
-<pre>
-LAST NAME/FIRST NAME/MIDDLE NAME                                             DATE OF BIRTH
-John Doe                                                                     4980
+**LAST NAME/FIRST NAME/MIDDLE NAME**
 
+JOHN DOE
 
-STATION
-Albatross AJX-422
-</pre>
+**DATE OF BIRTH**
+
+4980
+
+**STATION**
+
+ALBATROSS AJX-422
+
+**TYPE OF TRANSFER**
+
+TRF TO CTF
