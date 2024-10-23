@@ -112,4 +112,4 @@ PROFICIENCY WITH OMNI-NET, RELIGIOUS PROSELYTIZATION, FIRMAMENT-MASTERY, PROFICI
 
 **NOTES**
 
-[REDACTED]
+Codename: Hypostases possesses a dangerous firmament affinity. Current sources place his affinity score between 0.67 to 0.83 **[Excerpt from Operation Codename: Tabernacle Black]**. Codename: Hypostases maintains an Osiris-Class NHP and an Aunic "Soul". Whether these two entities are the same or separate is currently unknown. The Non-Human Person(s) seemingly enhance Codename: Hypostases thinking and ability but have a noticeable effect on sanity and human-like thinking. Relation between Codename: Hypostases and Codename: Boar **[Excerpt from Operation Codename: Talltale]** should be noted as close, further details noted in Operation: Talltale. Codename: Hypostases has no known religious affiliation but we gather they have Ecumenical sympathies, and is, most likely an Ecumenical Aun. Our sources from the Church of the Path deny connection to Codename: Hypostases but he is still a valid target for flipping in respect to Operations within Boundary Garden.
