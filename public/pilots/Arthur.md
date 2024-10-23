@@ -3,17 +3,18 @@
 **[OPERATION CODENAME: EXORCIST]**
 
 **…NOTES PROVIDED BY UNION DEPARTMENT OF JUSTICE**
+
 **AND HUMAN RIGHTS IN CONJUNCTION WITH ALBATROSS STATION TAIGA-3**
 
 **[ALBATROSS TAIGA-3 TRANSFER DOSSIER]**
 
 **LAST NAME/FIRST NAME/MIDDLE NAME**
 
-JOHN DOE
+PETER D. O'SHAUGHNESSY
 
 **PLACE OF BIRTH**
 
-poopville
+TAIGA-3 
 
 **DATE OF BIRTH**
 
@@ -47,62 +48,66 @@ M
 
 **HEIGHT**
 
-000cm
+183.33CM
 
 **WEIGHT**
 
-000KG
+88KG
 
 **EYES**
 
 BRO
 
 **HAIR**
-
-BRO
+RED
 
 **BLOOD TYPE**
-
-O-
+B-
 
 **…NEW FILE**
 
 **CONFIDENTIAL INFORMATION.**
 
-**DO NOT SHARE**
+**DO NOT SHARE.**
 
 **[UNION INTELLIGENCE BUREAU DOSSIER ON PERSON OF INTEREST]**
 
-**[OPERATION CODENAME: BLANK ]**
+**[OPERATION CODENAME: TALLTALE ]**
 
-**[PERSON OF INTEREST CODENAME: BLANK ]**
+**[PERSON OF INTEREST CODENAME: BOAR ]**
 
 **LAST NAME**
 
-DOE
+O'SHAUGHNESSY
 
 **FIRST NAME**
 
-JOHN
+PETER
 
 **MIDDLE NAME**
 
-FITZGERALD
+DARIUS
 
 **LOCATION OF BIRTH**
 
-AMAZONIA
+TAIGA-3
 
 **DATE OF BIRTH**
 
-4980
+4980U
 
 **RELIGIOUS AFFILIATION**
 
-WEWAUY
+POTENTIALLY ECUMENICAL
 
-MECHANIZED UNIT SKILL SET
+**MECHANIZED CHASSIS SKILL SET**
 
-OTHER KNOWN SKILLS
+CLOSE COMBAT, UNORTHODOX TACTICS AND WEAPONRY, COORDINATED ASSAULT, SINGLE TARGET ISOLATION
 
-NOTES-
+**OTHER KNOWN SKILLS**
+
+SPACE VEHICLE PILOTING, LEADERSHIP INTIATIVE SKILLS, DIPLOMATIC TENDENCIES
+
+**NOTES-**
+
+Family relations to others on Taiga-3, including one or more Mechanized Chassis Pilots. close ties to non-related pilot Mehro-Tepre Sunoaten, and possibly a religious convert due to said pilot. Pilots share good chemistry on and off the field. Has a history of Cargo-Running as a pilot before joining Albatross ranks. Unlikely yet possible to be a deserter, later accepted back on station on unknown circumstances. Suspected travel partner for Mehro-Tepre, and likely the one to bring him to Albatross.
