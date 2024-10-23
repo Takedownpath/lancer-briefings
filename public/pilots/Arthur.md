@@ -6,7 +6,7 @@
 
 JOHN DOE
 
-**PLACE OF BIRTH**
+PLACE OF BIRTH
 
 poopville
 
