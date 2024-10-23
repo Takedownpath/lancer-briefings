@@ -51,11 +51,11 @@ N/A
 
 **WEIGHT**
 
-000KG
+062KG
 
 **EYES**
 
-BRO
+BLU
 
 **HAIR**
 BLN
