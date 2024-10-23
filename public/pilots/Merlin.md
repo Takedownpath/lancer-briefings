@@ -60,7 +60,7 @@ BLU
 
 **HAIR**
 
-BLN
+GRY
 
 **BLOOD TYPE**
 
