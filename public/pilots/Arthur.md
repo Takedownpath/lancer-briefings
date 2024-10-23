@@ -6,7 +6,7 @@
 
 JOHN DOE
 
-PLACE OF BIRTH
+<font color="blue">PLACE OF BIRTH </font>
 
 poopville
 
