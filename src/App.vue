@@ -1,4 +1,4 @@
-<template>
+ta<template>
   <Header :header="this.header" />
   <div class="content-container">
     <section class="section-container" id="missions" style="width:435px; height:714px;">
@@ -142,7 +142,7 @@ export default {
         "headerTitle": "ALBATROSS-UNION",
         "headerSubtitle": "DOJ/HR CTF",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Golf-Uniform-Tango-Sierra",
+        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
         "eventsMarkdownPerMission": true
