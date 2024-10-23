@@ -142,7 +142,7 @@ export default {
         "headerTitle": "ALBATROSS-UNION",
         "headerSubtitle": "DOJ/HR CTF",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Golf-Uniform-Tango-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
