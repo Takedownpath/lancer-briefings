@@ -56,11 +56,11 @@ N/A
 
 **EYES**
 
-BLU
+GRY
 
 **HAIR**
 
-GRY
+BLN
 
 **BLOOD TYPE**
 
