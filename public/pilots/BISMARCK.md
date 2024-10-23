@@ -28,6 +28,8 @@ Height - 6' 2"
 
 Weight - 220
 
+Blood Type - AB+
+
 INFORMATION PERTAINING TO SUBJECT
 
 [REDACTED]
