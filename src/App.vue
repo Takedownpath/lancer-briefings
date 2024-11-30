@@ -98,6 +98,15 @@ export default {
           "name": "Search and Rescue",
           "status": "start"
         },
+      "mission_slug": "002",
+      "current_md": "",
+      "events": "",
+      "missions": [
+        {
+          "slug": "002",
+          "name": "Outpost",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
